@@ -1,0 +1,18 @@
+header,footer
+{
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+.center,h1,h2
+{
+    text-align: center;
+    align-items: center;
+}
+.card
+{
+    width: 80%;
+    margin: 40px auto;
+    border: 5px solid gray;
+    box-shadow: 5px 10px #888888;
+}
